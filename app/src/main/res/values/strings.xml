@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Déjà Lu</string>
+    <string name="voir_les_livres">Voir les livres</string>
+    <string name="ajouter_un_livre">Ajouter un livre</string>
+    <string name="retour">RETOUR</string>
+    <string name="modifier">MODIFIER</string>
+    <string name="supprimer">SUPPRIMER</string>
+    <string name="titre">Titre</string>
+    <string name="auteur">Auteur</string>
+    <string name="annee_edition">Année d\'édition</string>
+    <string name="resume">Résumé</string>
+    <string name="mes_commentaires">Mes commentaires</string>
+    <string name="date_de_lecture">Date de Lecture</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="fin_de_lecture">Fin de lecture le :</string>
+</resources>
